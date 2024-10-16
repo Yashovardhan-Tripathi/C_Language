@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main(){
-    int i=8;
+    int i;
+    printf("Enter a number: ");
+    scanf("%d",&i);
     int *j;
     j=&i;
     printf("Add i=%u\n",&i);
