@@ -118,6 +118,11 @@ printf("\n");
 }
 int main()
 {
+    printf( "Name:Yashovardhan Tripathi\n");
+    printf( "PRN No.:230105231360\n");
+    printf( "Division: D\n");
+    printf( "Roll No.: 14\n");
+    printf( "Experiment No:01\n\n");
     int set1[] = {1, 2, 3, 4, 5};
     int size1 = sizeof(set1) / sizeof(set1[0]);
     int set2[] = {4, 5, 6, 7, 8};
