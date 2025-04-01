@@ -79,6 +79,11 @@ printf("\n");
 }
 }
 int main() {
+     printf("Name:Yashovardhan Tripathi\n");
+    printf("PRN No.:230105231360\n");
+    printf("Division: D\n");
+    printf("Roll No.: 14\n");
+    printf("Experiment No:04\n\n");
 int arr[100], n, choice;
 printf("Enter the number of elements: ");
 scanf("%d", &n);

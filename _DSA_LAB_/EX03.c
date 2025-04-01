@@ -21,6 +21,11 @@ void sortRecords();
 void displayRecords();
 int main()
 {
+    printf("Name:Yashovardhan Tripathi\n");
+    printf("PRN No.:230105231360\n");
+    printf("Division: D\n");
+    printf("Roll No.: 14\n");
+    printf("Experiment No:03\n\n");
     int choice;
     while (1)
     {
